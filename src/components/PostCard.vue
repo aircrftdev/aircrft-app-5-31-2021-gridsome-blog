@@ -9,7 +9,7 @@
 
       <div>
         <a href="https://gumroad.com/l/zwIVA" target=“_blank” class="button primary button--large">
-        Learn more 💎
+        Learn more ↘ ▶️ 👾 <img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/ハート(虹).png" emoji-code="ハート(虹)" emoji-moji="❤‍🧡‍💛‍💚‍💙‍💜" alt="ハート(虹)" />
         </a>
       <br>
       <br>

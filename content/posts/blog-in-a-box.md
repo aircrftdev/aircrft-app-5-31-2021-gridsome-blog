@@ -107,7 +107,7 @@ Opens a universe of possibilities and opportunities. Product-ready out-of-the-bo
 ⭐️ blazing-fast
 
 
-⭐️ Your custom domain 
+⬇️  Your custom domain 
 
 💎 Aircrft Code Captains wire-up your domain blog.startup.com / startup.com/blog
 

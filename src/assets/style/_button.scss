@@ -51,10 +51,10 @@
 
   &.primary {
     color: #FFF;
-    background-color: var(--primary-color-dark);
+    background-color: #091a28E1;
     
     &:after {
-      border-color: rgba(0,0,0,.1);
+      border-color: rgba(0,0,0,.5);
     }
 
     &:before {
