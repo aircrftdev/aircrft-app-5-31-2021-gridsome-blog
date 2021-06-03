@@ -50,8 +50,8 @@
   }
 
   &.primary {
-    color: #FFF;
-    background-color: #091a28E1;
+    color: var(--link-color);
+    background-color: #FFF;
     
     &:after {
       border-color: rgba(0,0,0,.5);

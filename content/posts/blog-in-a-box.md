@@ -101,10 +101,10 @@ Opens a universe of possibilities and opportunities. Product-ready out-of-the-bo
 ⭐️ JAMstack architecture 
 
 
-⭐️ Infinitely scalable
+![ハート(氷)](https://cdn.emojidex.com/emoji/seal/ハート(氷).png "ハート(氷)") Infinitely scalable
 
 
-⭐️ blazing-fast
+![ハート(氷)](https://cdn.emojidex.com/emoji/seal/ハート(氷).png "ハート(氷)") blazing-fast
 
 
 ⬇️  Your custom domain 
