@@ -7,8 +7,26 @@
       <h2 class="post-card__title" v-html="post.title" />
       <p class="post-card__description" v-html="post.description" />
 
-      <PostMeta class="post-card__meta" :post="post" />
-      <PostTags class="post-card__tags" :post="post" />
+      <div>
+        <a href="https://gumroad.com/l/zwIVA" target=“_blank” class="button primary button--large">
+        Learn more 💎
+        </a>
+      <br>
+      <br>
+        <a href="https://gumroad.com/l/zwIVA" target=“_blank” class="button primary button--large">
+        ⭐️ Blog-in-a-Box | Buy Now ⭐️
+        </a>
+        <br>
+        <br>
+        <a class=“gumroad-button” href=“https://gumroad.com/l/zwIVA” target=“_blank”>Blog in a Box </a>
+      </div>
+
+      
+
+      <!--  <a class=“gumroad-button” href=“https://gumroad.com/l/zwIVA” target=“_blank”>Blog in a Box </a> 
+
+      <PostMeta class="post-card__meta" :post="post" /> -->
+      <PostTags class="post-card__tags" :post="post" /> 
 
       <g-link class="post-card__link" :to="post.path">Link</g-link>
 
