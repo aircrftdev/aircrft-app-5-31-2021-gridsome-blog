@@ -4,7 +4,7 @@ date: 2021-06-03
 published: true
 tags: ['Blogging System', 'Tools & Solutions']
 series: false
-cover_image: ./images/aircrft-blog-in-a-box-cover-0.png
+cover_image: ./images/aircrft-blog-in-a-box-micro.png
 canonical_url: false
 description: "A complete blogging system for startups"
 ---
