@@ -1,5 +1,5 @@
 <template>
-	<div class="author">
+	<!-- <div class="author">
 
 		<g-image alt="Author image" class="author__image" src="~/assets/images/aircrft-logo.png" width="180" height="180" blur="5" />
 
@@ -17,7 +17,7 @@
 			<a href="//aircrft.com/hub">Hub & Spoke</a>
 		</p>
 
-	</div>
+	</div> -->
 </template>
 
 <static-query>

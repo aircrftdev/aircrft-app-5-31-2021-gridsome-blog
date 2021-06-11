@@ -9,6 +9,8 @@ canonical_url: false
 description: "A complete blogging system for startups"
 ---
 
+<slot name="Ad" />
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gumroad.com/l/zwIVA" target="_blank">Blog-in-a-Box | Buy Now</a>
 
@@ -91,12 +93,21 @@ A complete blogging system for startups.
 Opens a universe of possibilities and opportunities. Product-ready out-of-the-box blogging platform powered by then latest server-less JAMstack architecture. 
 
 ⭐️ Startup-grade. 
+
+
 ⭐️ Fully-deployed production ready
+
+
 ⭐️ JAMstack architecture 
-⭐️ Infinitely scalable
-⭐️ blazing-fast
-⭐️ bullet-proof secure
-⭐️ Your custom domain 
+
+
+![ハート(氷)](https://cdn.emojidex.com/emoji/seal/ハート(氷).png "ハート(氷)") Infinitely scalable
+
+
+![ハート(氷)](https://cdn.emojidex.com/emoji/seal/ハート(氷).png "ハート(氷)") blazing-fast
+
+
+⬇️  Your custom domain 
 
 💎 Aircrft Code Captains wire-up your domain blog.startup.com / startup.com/blog
 

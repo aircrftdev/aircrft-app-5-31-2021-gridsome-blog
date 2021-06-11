@@ -1,10 +1,11 @@
 ---
-title: Startup Spotlight 
-date: 2021-05-29
+title: Spotlight
+date: 2021-06-29
 published: true
 tags: ['Spotlight', 'Hub & Spoke']
 series: false
-cover_image: ./images/aircrft-blog-in-a-box-cover-0.png
+cover_image: ./images/aircrft-home-card-cover-1.png
 canonical_url: false
-description: Aircrft.com launches it's own blog Hub & Spoke with Blog-in-a-Box. 
+description: Aircrft.com launches it's own blog Hub & Spoke with Blog-in-a-Box.
 ---
+

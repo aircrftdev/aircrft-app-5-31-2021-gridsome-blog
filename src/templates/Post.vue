@@ -16,6 +16,18 @@
 
       <div class="post__content" v-html="$page.post.content" />
 
+        <a class=“gumroad-button” href=“https://gumroad.com/l/zwIVA” target=“_blank”>Blog in a Box </a>
+
+        <VueRemarkContent>
+        
+          <template v-slot:ad>
+
+            <Ad />
+
+          </template>
+
+        </VueRemarkContent>
+
       <div class="post__footer">
         <PostTags :post="$page.post" />
 
@@ -24,6 +36,7 @@
 
     <div class="post-comments">
       <!-- Add comment widgets here -->
+
     </div>
 
     <Author class="post-author" />
@@ -34,6 +47,7 @@
 import PostMeta from '~/components/PostMeta'
 import PostTags from '~/components/PostTags'
 import Author from '~/components/Author.vue'
+import Ad from '~/components/Ad.vue'
 
 export default {
   components: {
